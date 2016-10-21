@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dongfang.cloud37.ceshi6.com/v10.ipa</string>
+					<string>http://014517.ichengyun.net/penpenhu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.youzhouPenghu.lm</string>
 				<key>bundle-version</key>
-				<string>1.6</string>
+				<string>1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
